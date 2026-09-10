@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shiori Wang
 
-<!--
-**Cyberchopin/Cyberchopin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics of Computation student at UCLA building software, AI systems, and responsible machine learning tools.
 
-Here are some ideas to get you started:
+My work focuses on systems that make evidence, uncertainty, policy boundaries, and human control visible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- **CarePath AI** — Responsible ML infrastructure for calibrated hospital readmission-risk research
+- **Continuum** — Admission control and audit receipts for autonomous-agent memory
+- **CallGate** — Streaming voice-risk evidence and two-person authorization prototype
+- **AegisLand** — Safety-oriented OpenCV loop for simulated emergency drone landing
+
+## Current research
+
+Incoming Research Volunteer at UCLA's SEED Lab, with a planned focus on computational and quantitative approaches to developmental risk and resilience in serious mental illness.
+
+## Technologies
+
+Python · C++ · TypeScript · SQL · PyTorch · scikit-learn · OpenCV · AWS · Google Cloud · Docker · Linux
+
+[LinkedIn](https://www.linkedin.com/in/shiyue-wang-574331331/)
