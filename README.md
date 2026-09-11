@@ -1,4 +1,4 @@
-# Hi, I'm Shiori Wang
+# Hi, I'm Shiori W
 
 I'm a Mathematics of Computation student at UCLA building software, AI systems, and responsible machine learning tools.
 
