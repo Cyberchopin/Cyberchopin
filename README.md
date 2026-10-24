@@ -13,7 +13,7 @@ My work focuses on systems that make evidence, uncertainty, policy boundaries, a
 
 ## Highlights
 
-🏆 LA Hacks 2026 — Hackerson Award, ReachGuard
+🏆 LA Hacks 2026 — Hackathon Award, ReachGuard
 
 🥈 Kaggle Competitions Expert
 
