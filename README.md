@@ -23,7 +23,7 @@ Incoming Research Volunteer at UCLA's SEED Lab, with a planned focus on computat
 
 ## Technologies
 
-Python · C++ · TypeScript · SQL · PyTorch · scikit-learn · OpenCV · AWS · Google Cloud · System design, · Linux
+Python · C++ · TypeScript · SQL · PyTorch · scikit-learn · OpenCV · AWS · Google Cloud · System design · Linux
 
 ## Beyond Code 🎹
 
